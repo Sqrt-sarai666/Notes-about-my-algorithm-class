@@ -2,7 +2,7 @@
 
 ## 2nd class
 
-Some vexed problems seen in class:
+Some problems vexed in class:
 
 1. Minimum Spanning Tree Problem
 2. Graph problems
