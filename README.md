@@ -11,4 +11,4 @@ Some problems vexed in class:
 
 It's very difficult to draft all in english 🦇 **HELP ME PLEASE!!!!**
 
-*More soon :3*
+*More soon...*
