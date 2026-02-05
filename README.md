@@ -9,6 +9,8 @@ Some problems vexed in class:
    - Bipartite graph *"marriage problem"*
    - $\chi(G)$ problem
 
+$$\int_{a}^{b} f(x) dx$$
+
 It's very difficult to draft all in english 🦇 **HELP ME PLEASE!!!!**
 
 *More soon...*
